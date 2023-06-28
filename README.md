@@ -1,5 +1,5 @@
 # NOC-Router
-Implementing an 8 - bit NOC Router in VHDL 
+Implementing an 8-bit NOC Router in VHDL 
 
 ### Software used for Programming, Testing and Simulation :~
 
